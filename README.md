@@ -5,21 +5,27 @@ You can access my report where I interpret the outputs of the analyses I conduct
 
 https://docs.google.com/document/d/1GtjIP0lyxT9uktIG07koqwlXIC7OFqs71m_ZJxA67mY/edit?usp=sharing
 
-💻 ## Analyses
+💻 ## Cases
 
-1. **Comparison of Daily Advertising Expenses and DNU Graph**: Daily advertising expenses are visualized and compared with the DNU (Daily New Users) graph.
+1. **Comparison of Daily Advertising Expenses and DNU Graph**: 
 
-2. **Cohort Retention Analysis**: D1, D3, D7, and D14 retention is calculated for all dates in the dataset. The results are interpreted.
+2. **Cohort Retention Analysis**:
+   
+3. **ARPPU Trend Analysis**: 
+   
+4. **Conversion Rate Analysis**: 
 
-3. **ARPPU Trend Analysis**: ARPPU (Average Revenue Per Paying User) is calculated for all dates, and its trend is interpreted. Additionally, a comparison of ARPPU between the US and PH countries is made.
+5. **ROAS Analysis**: 
 
-4. **ROAS Analysis**: ROAS (Return on Advertising Spend) is calculated for D1, D3, D7, and D14 and interpreted.
+6. **Spenders Analysis**:
 
-5. **Spenders Analysis**: The number of first-time and repeat spenders within DAU for all dates is found.
+7. **Most Challenging Stage Analysis**: 
 
-6. **Most Challenging Stage Analysis**: The stage where players face the most challenges is predicted and interpreted.
+8. **Likely Stage for a Player on Day 5 Analysis**: 
 
-7. **Player Behavior Analysis**: Special SQL queries are used to examine the behavior of a specific player profile.
+9. **Cumulative Stage After 21 Attempts Analysis**: 
+   
+10. **Impact of Mobile Device Screen Size on Player Success Analysis**:
 
 ❎ ## Exclusion of Cheaters
 
