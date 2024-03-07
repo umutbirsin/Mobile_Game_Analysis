@@ -26,7 +26,7 @@ u.total_uaspend
 from nu as n inner join uas as u on n.install_date = u.date
 order by 1
 
---CASE 2 Q'
+--CASE 2 Q2
 --Retention :
 -- Calculate cohort-based D1, D3, D7, D14 retention
 -- for all dates provided in the dataset and interpret the results as much as possible.
@@ -225,7 +225,7 @@ group by 1
 -- Share your own assessment and comments.
 
 
-----in_order_to_Fail_attempt----
+----according_to_Fail_attempt----
 with t1 as (
 select
 cast (stage_index as integer) as stage_index,
@@ -245,7 +245,7 @@ where user_count > 500
 order by 2 desc
 limit 5
 ;
-------in_order_to_suc_rate---
+------according_to_suc_rate---
 with t1 as
 (
 select
@@ -299,7 +299,7 @@ attempt_count / user_count as avg_attempt
 from t1
 
 --OWN QUESTİON--
--- The Impact of Mobile Device Screen Size on Player Success---------kendi sorum---
+-- The Impact of Mobile Device Screen Size on Player Success---------
 
 
 with t1 as
